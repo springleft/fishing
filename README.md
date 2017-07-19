@@ -1,2 +1,2 @@
-# fishing
-基于面向对象开发的一个小游戏
+# game-fishing-single
+Using canvas to write the single version of fishing Master
